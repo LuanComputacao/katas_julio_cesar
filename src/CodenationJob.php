@@ -1,5 +1,7 @@
 <?php
 
+namespace Codenation;
+
 use Codenation\Cyphers\Cypher;
 use GuzzleHttp\Client;
 
