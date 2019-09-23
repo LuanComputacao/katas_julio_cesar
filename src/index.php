@@ -1,5 +1,6 @@
 <?php
 
+use Codenation\CodenationJob;
 use Codenation\Cyphers\Cesar;
 
 require __DIR__ . '/../vendor/autoload.php';

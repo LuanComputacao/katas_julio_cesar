@@ -78,3 +78,5 @@ composer.phar
 # composer.lock
 
 /.env
+!/resources/
+/resources/*
